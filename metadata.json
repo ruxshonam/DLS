@@ -1,0 +1,6 @@
+{
+  "name": "Dream League 3D - Pro Football",
+  "description": "Professional 3D football game inspired by Dream League Soccer featuring 11v11 matches, realistic physics, team customization, tournament mode, and dynamic stadium graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
